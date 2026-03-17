@@ -66,8 +66,8 @@ git submodule update --init --recursive
 
 ```bash
 # Clone with submodule
-git clone --recursive https://github.com/SwayamInSync/flash-attention.git
-cd flash-attention
+git clone --recursive https://github.com/SwayamInSync/flash-attention-versions.git
+cd flash-attention-versions
 
 # Or, if already cloned:
 git submodule update --init --recursive
